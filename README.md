@@ -14,19 +14,19 @@ Des Moines. This analysis will identify the following:
 ## Results
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-![Checkout Times for Users](/analysis/Checkout Times for Users.png)
+![Checkout Times for Users](/analysis/Checkout_Times_for_Users.png)
 
-![Trips by Weekday per Hour](/analysis/Trips by Weekday per Hour.png)
+![Trips by Weekday per Hour](/analysis/Trips_by_Weekday_per_Hour.png)
 
-![Number of Trips by Gender](/analysis/Number of Trips by Gender.png)
+![Number of Trips by Gender](/analysis/Number_of_Trips_by_Gender.png)
 
-![Checkout Times by Gender](/analysis/Checkout Times by Gender.png)
+![Checkout Times by Gender](/analysis/Checkout_Times_by_Gender.png)
 
-![Trips by Gender (Weekday per Hour)](/analysis/Trips by Gender (Weekday per Hour).png)
+![Trips by Gender (Weekday per Hour)](/analysis/Trips_by_Gender_Weekday_per_Hour.png)
 
-![Number of Trips by Customer Types](/analysis/Number of Trips by Customer Types.png)
+![Number of Trips by Customer Types](/analysis/Number_of_Trips_by_Customer_Types.png)
 
-![User Trips by Gender by Weekday](/analysis/User Trips by Gender by Weekday.png)
+![User Trips by Gender by Weekday](/analysis/User_Trips_by_Gender_by_Weekday.png)
 
 ## Summary
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
