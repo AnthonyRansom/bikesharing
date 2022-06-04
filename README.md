@@ -19,25 +19,25 @@ Through the analysis the following story was created in Tableau
 The below graphs and brief description provide a high-level description of the insights provided by each graph
 
 ![Checkout Times for Users](/analysis/Checkout_Times_for_Users.png)  
-Indicates the length of time bikes are checked out
+Indicates the length of time bikes are checked out which is showing the majority of trips are less than 30 minutes.
 
 ![Trips by Weekday per Hour](/analysis/Trips_by_Weekday_per_Hour.png)  
-Indicates the time of day for each day of the week bikes are checked out
+Indicates the time of day for each day of the week bikes are checked out which is showing the most trips occur during the work commute hours.
 
 ![Number of Trips by Gender](/analysis/Number_of_Trips_by_Gender.png)  
-Shows a break down of each gender that checks out bikes
+Shows a break down of each gender that checks out bikes which shows the majority of users are male.
 
 ![Checkout Times by Gender](/analysis/Checkout_Times_by_Gender.png)  
-Indicates the length of time bikes are checked out by gender
+Indicates the length of time bikes are checked out by gender showing the trip length does not differ substantially by gender.
 
 ![Trips by Gender (Weekday per Hour)](/analysis/Trips_by_Gender_Weekday_per_Hour.png)  
-Indicates the time of day for each day of the week bikes are checked out by gender
+Indicates the time of day for each day of the week bikes are checked out by gender showing the hours bikes are checked out do not differ substantially by gender.
 
 ![Number of Trips by Customer Types](/analysis/Number_of_Trips_by_Customer_Types.png)  
-Shows a breakdown of each user type that checks out bikes
+Shows a breakdown of each user type that checks out bikes showing the majority of users are subscribers.
 
 ![User Trips by Gender by Weekday](/analysis/User_Trips_by_Gender_by_Weekday.png)  
-Indicates the number of checked out bikes by user type
+Indicates the number of checked out bikes by user type showing general customers that do not subscribe favor checking out bikes on weekends.
 
 ## Summary
 
