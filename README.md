@@ -1,6 +1,4 @@
 # bikesharing
- 
-https://public.tableau.com/app/profile/anthony5657/viz/NYCCitibikeAnalysis_16541313211500/NYCCitibikeAnalysis?publish=yes
 
 ## Overview of Project
 
